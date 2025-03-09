@@ -107,8 +107,8 @@ Download: [MEGA FOLDER WITH ALL 4.92 CFW VERSIONS](https://pages.github.com/)
 
 
 
-:pushpin:	Down 
-= ## [Releases](https://github.com/EviInat/CFW-4.92-Evilnat/releases)
+
+## [Releases](https://github.com/EviInat/CFW-4.92-Evilnat/releases)
 
 
 @EviInat :+1: This PR looks great - it's ready to merge! :shipit:
