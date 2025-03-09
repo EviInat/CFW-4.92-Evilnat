@@ -1,3 +1,4 @@
+```
 Features
 Made out of 4.92 OFW (CEX)
 Ported Kernel and some modules from OFW 4.84 DEX
@@ -93,3 +94,4 @@ Opcode to toggle coldboot and sound (By Evilnat)
 Opcode to toggle epilepsy warning (By Evilnat)
 Added cellUsb000_mount_symbol (By haxxxen)
 Added usb_flag and no_cobra flags (By aldostools and Evilnat)
+```
