@@ -107,7 +107,7 @@ Download: [MEGA FOLDER WITH ALL 4.92 CFW VERSIONS](https://pages.github.com/)
 
 
 
-`#0969DA`Download
+> Download
 - CFW 4.92 Evilnat Cobra 8.5 [PEX] (https://www.mediafire.com/folder/7forzia51zbu6/CFW+4.92+Evilnat+Cobra+8.5+[PEX])
 - CFW 4.92 Evilnat Cobra 8.5 [D-PEX] (https://www.mediafire.com/folder/hb0d465emrv6k/CFW+4.92+Evilnat+Cobra+8.5+[D-PEX])
 - CFW 4.92 Evilnat Cobra 8.5 [CEX] (https://www.mediafire.com/folder/pextlbtim0j9z/CFW+4.92+Evilnat+Cobra+8.5+[CEX])
