@@ -117,4 +117,4 @@ Download: [MEGA FOLDER WITH ALL 4.92 CFW VERSIONS](https://pages.github.com/)
 @EviInat :+1: This PR looks great - it's ready to merge! :shipit:
 
 
-[X](https://x.com/EviInat)
+:arrow_forward:	[X](https://x.com/EviInat)
